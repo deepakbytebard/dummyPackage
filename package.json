@@ -1,6 +1,6 @@
 {
   "name": "dummy-rollup-pkg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Dummy Rollup Package",
   "main": "index.js",
   "files": [
@@ -21,6 +21,7 @@
     "nodemon": "^3.0.3"
   },
   "dependencies": {
+    "clsx": "^2.1.0",
     "react": "^18.2.0"
   }
 }
