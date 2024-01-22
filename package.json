@@ -1,0 +1,17 @@
+{
+  "name": "dummy-rollup-pkg",
+  "version": "0.0.1",
+  "description": "Dummy Rollup Package",
+  "main": "index.js",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
