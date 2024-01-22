@@ -1,6 +1,6 @@
 {
   "name": "dummy-rollup-pkg",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Dummy Rollup Package",
   "main": "index.js",
   "files": [
@@ -16,5 +16,11 @@
     "dummy-rollup"
   ],
   "author": "deepakbytebard",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
