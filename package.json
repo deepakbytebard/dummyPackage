@@ -6,12 +6,13 @@
   "files": [
     "dist"
   ],
+  "homepage": "https://github.com/deepakdatarta97/dummyPackage",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/deepakdatarta97/dummyPackage"
   },
   "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["dummy-rollup"],
+  "author": "deepakbytebard",
+  "license": "MIT"
 }
