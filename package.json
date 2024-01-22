@@ -9,10 +9,12 @@
   "homepage": "https://github.com/deepakdatarta97/dummyPackage",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deepakdatarta97/dummyPackage"
+    "url": "git+https://github.com/deepakdatarta97/dummyPackage.git"
   },
   "scripts": {},
-  "keywords": ["dummy-rollup"],
+  "keywords": [
+    "dummy-rollup"
+  ],
   "author": "deepakbytebard",
   "license": "MIT"
 }
